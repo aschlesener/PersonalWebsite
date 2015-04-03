@@ -71,7 +71,7 @@
 		text-decoration: none;
 		color: #8B8B8B;	
 		font-family: 'Noticia';
-		padding-right:40px;
+		padding-right:30px;
 	}
 	.navigation a:hover {
 		color: #61CFD3
@@ -108,13 +108,13 @@
 	}
 	.leftContainer {
 		width:700px;
-		height:400px;
 		position:relative;	
 		margin: 0px auto;
 		position: relative;	
+		padding-bottom:20px;
 	}
 	.socialContacts {
-		height: 250px;
+		height: 220px;
 		position: relative;
 		font-size: 17px;
 		left: 100px;
@@ -189,6 +189,9 @@
 			margin-top:10px;
 			margin-bottom: 10px;
 		}
+		h4 {
+			text-align:center;
+		}
 		p {
 			text-align:center;
 		}
@@ -242,9 +245,10 @@
 			padding-top:0px;
 			width:100%;
 			height:25%;
+			margin: 0px auto;
 		}
 		.navigation a {
-			padding-right:25px;
+			padding-right:6px;
 		}
 		.centerParagraph {
 			width: 100%;
@@ -253,6 +257,9 @@
 		.leftContainer {
 			width: 100%;
 			height:85%;
+		}
+		.leftParagraph p {
+			text-align:left;
 		}
 		.centerImages {
 			width:100%;

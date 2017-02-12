@@ -17,10 +17,14 @@
 	#content h2 {
 		font-size: 60px;
 		font-weight: normal;
+		margin-bottom:2px;
+		margin-top:4px;
 	}
 	#content h6 {
 		font-size: 17px;
 		font-weight: normal;
+		margin-bottom:2px;
+		margin-top:4px;
 	}
 	#header {
 		height: 30px;
@@ -86,9 +90,6 @@
 		width: 400px;
 		margin: 0px auto;
 	}
-	.centerParagraph p {
-		font-family:Open Sans;
-	}
 	.leftParagraph {
 		margin-top:10px;
 	}
@@ -119,13 +120,7 @@
 	.leftContainer a {
 		color: #4D4D4D;
 	}
-	.leftContainer h2 {
-		margin-bottom:2px;
-		margin-top:4px;
-	}
 	.leftContainer h6 {
-		margin-bottom:2px;
-		margin-top:4px;
 		margin-left:2px;
 	}
 	
